@@ -1,0 +1,12 @@
+
+TD {FONT-SIZE: 11px; font-family:Verdana, Arial, Helvetica, sans-serif;}
+IMG {BORDER:0px;}
+
+A.gb:link {COLOR:#CC0000; TEXT-DECORATION:none}
+A.gb:visited {COLOR:#CC0000; TEXT-DECORATION:none}
+A.gb:active {COLOR:#666666; TEXT-DECORATION:none}
+A.gb:hover {COLOR:#666666; TEXT-DECORATION:underline}
+
+
+H3 {font-weight : bold; font-size : 18px;}
+input, textarea {font-family: Verdana; font-size: 12px; text-decoration: none; color: #000000; cursor: default; background-color: #FFFFFF; border-style: solid; border-width: 1px; border-color: #000000;}
